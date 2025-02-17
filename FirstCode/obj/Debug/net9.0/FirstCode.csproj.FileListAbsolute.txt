@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/FirstCode/bin/Debug/net9.0/FirstCode
+/Users/nydia/CsharpEjercicios/FirstCode/bin/Debug/net9.0/FirstCode.deps.json
+/Users/nydia/CsharpEjercicios/FirstCode/bin/Debug/net9.0/FirstCode.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/FirstCode/bin/Debug/net9.0/FirstCode.dll
+/Users/nydia/CsharpEjercicios/FirstCode/bin/Debug/net9.0/FirstCode.pdb
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.sourcelink.json
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.dll
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/refint/FirstCode.dll
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.pdb
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/FirstCode.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/FirstCode/obj/Debug/net9.0/ref/FirstCode.dll
