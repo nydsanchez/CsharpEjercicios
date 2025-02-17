@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FirstCode")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MathClassMethodsChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac58ab1e3f0670b9d9dbea2703756f39ac9a2bc2")]
-[assembly: System.Reflection.AssemblyProductAttribute("FirstCode")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FirstCode")]
+[assembly: System.Reflection.AssemblyProductAttribute("MathClassMethodsChallenge")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MathClassMethodsChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

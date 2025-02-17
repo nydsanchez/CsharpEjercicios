@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.sourcelink.json
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/bin/Debug/net9.0/MathClassMethodsChallenge
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/bin/Debug/net9.0/MathClassMethodsChallenge.deps.json
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/bin/Debug/net9.0/MathClassMethodsChallenge.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/bin/Debug/net9.0/MathClassMethodsChallenge.dll
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/bin/Debug/net9.0/MathClassMethodsChallenge.pdb
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.dll
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/refint/MathClassMethodsChallenge.dll
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.pdb
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/MathClassMethodsChallenge.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/MathClassMethodsChallenge/obj/Debug/net9.0/ref/MathClassMethodsChallenge.dll
