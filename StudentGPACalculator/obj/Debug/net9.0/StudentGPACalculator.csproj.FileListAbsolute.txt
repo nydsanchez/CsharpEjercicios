@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/bin/Debug/net9.0/StudentGPACalculator
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/bin/Debug/net9.0/StudentGPACalculator.deps.json
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/bin/Debug/net9.0/StudentGPACalculator.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/bin/Debug/net9.0/StudentGPACalculator.dll
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/bin/Debug/net9.0/StudentGPACalculator.pdb
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.sourcelink.json
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.dll
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/refint/StudentGPACalculator.dll
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.pdb
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/StudentGPACalculator.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/StudentGPACalculator/obj/Debug/net9.0/ref/StudentGPACalculator.dll
