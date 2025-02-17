@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/bin/Debug/net9.0/StudentGradingApplication
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/bin/Debug/net9.0/StudentGradingApplication.deps.json
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/bin/Debug/net9.0/StudentGradingApplication.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/bin/Debug/net9.0/StudentGradingApplication.dll
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/bin/Debug/net9.0/StudentGradingApplication.pdb
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.sourcelink.json
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.dll
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/refint/StudentGradingApplication.dll
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.pdb
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/StudentGradingApplication.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/Debug/net9.0/ref/StudentGradingApplication.dll

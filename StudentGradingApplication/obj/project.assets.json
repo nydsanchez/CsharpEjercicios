@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nydia/CsharpEjercicios/MiPrimerEjercicio/MiPrimerEjercicio.csproj",
-      "projectName": "MiPrimerEjercicio",
-      "projectPath": "/Users/nydia/CsharpEjercicios/MiPrimerEjercicio/MiPrimerEjercicio.csproj",
+      "projectUniqueName": "/Users/nydia/CsharpEjercicios/StudentGradingApplication/StudentGradingApplication.csproj",
+      "projectName": "StudentGradingApplication",
+      "projectPath": "/Users/nydia/CsharpEjercicios/StudentGradingApplication/StudentGradingApplication.csproj",
       "packagesPath": "/Users/nydia/.nuget/packages/",
-      "outputPath": "/Users/nydia/CsharpEjercicios/MiPrimerEjercicio/obj/",
+      "outputPath": "/Users/nydia/CsharpEjercicios/StudentGradingApplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nydia/.nuget/NuGet/NuGet.Config"
