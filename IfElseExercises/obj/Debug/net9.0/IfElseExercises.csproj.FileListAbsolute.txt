@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/IfElseExercises/bin/Debug/net9.0/IfElseExercises
+/Users/nydia/CsharpEjercicios/IfElseExercises/bin/Debug/net9.0/IfElseExercises.deps.json
+/Users/nydia/CsharpEjercicios/IfElseExercises/bin/Debug/net9.0/IfElseExercises.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/IfElseExercises/bin/Debug/net9.0/IfElseExercises.dll
+/Users/nydia/CsharpEjercicios/IfElseExercises/bin/Debug/net9.0/IfElseExercises.pdb
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.sourcelink.json
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.dll
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/refint/IfElseExercises.dll
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.pdb
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/IfElseExercises.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/IfElseExercises/obj/Debug/net9.0/ref/IfElseExercises.dll
