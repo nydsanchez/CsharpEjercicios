@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/ForEachStatement/bin/Debug/net9.0/ForEachStatement
+/Users/nydia/CsharpEjercicios/ForEachStatement/bin/Debug/net9.0/ForEachStatement.deps.json
+/Users/nydia/CsharpEjercicios/ForEachStatement/bin/Debug/net9.0/ForEachStatement.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/ForEachStatement/bin/Debug/net9.0/ForEachStatement.dll
+/Users/nydia/CsharpEjercicios/ForEachStatement/bin/Debug/net9.0/ForEachStatement.pdb
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.sourcelink.json
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.dll
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/refint/ForEachStatement.dll
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.pdb
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ForEachStatement.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/ForEachStatement/obj/Debug/net9.0/ref/ForEachStatement.dll
