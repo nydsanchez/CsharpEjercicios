@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/Arrays/bin/Debug/net9.0/Arrays
+/Users/nydia/CsharpEjercicios/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/nydia/CsharpEjercicios/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/nydia/CsharpEjercicios/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/Arrays/obj/Debug/net9.0/ref/Arrays.dll
