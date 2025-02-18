@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/BusinessRules/bin/Debug/net9.0/BusinessRules
+/Users/nydia/CsharpEjercicios/BusinessRules/bin/Debug/net9.0/BusinessRules.deps.json
+/Users/nydia/CsharpEjercicios/BusinessRules/bin/Debug/net9.0/BusinessRules.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/BusinessRules/bin/Debug/net9.0/BusinessRules.dll
+/Users/nydia/CsharpEjercicios/BusinessRules/bin/Debug/net9.0/BusinessRules.pdb
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.sourcelink.json
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.dll
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/refint/BusinessRules.dll
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.pdb
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/BusinessRules.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/BusinessRules/obj/Debug/net9.0/ref/BusinessRules.dll
