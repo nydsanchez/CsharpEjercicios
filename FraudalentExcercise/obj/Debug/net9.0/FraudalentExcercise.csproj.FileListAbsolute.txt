@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.sourcelink.json
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/bin/Debug/net9.0/FraudalentExcercise
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/bin/Debug/net9.0/FraudalentExcercise.deps.json
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/bin/Debug/net9.0/FraudalentExcercise.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/bin/Debug/net9.0/FraudalentExcercise.dll
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/bin/Debug/net9.0/FraudalentExcercise.pdb
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.dll
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/refint/FraudalentExcercise.dll
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.pdb
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/FraudalentExcercise.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/FraudalentExcercise/obj/Debug/net9.0/ref/FraudalentExcercise.dll
