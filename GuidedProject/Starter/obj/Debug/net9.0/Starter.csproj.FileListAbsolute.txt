@@ -1,0 +1,5 @@
+C:\Users\LENOVO M900\Downloads\CsharpEjercicios\GuidedProject\Starter\obj\Debug\net9.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO M900\Downloads\CsharpEjercicios\GuidedProject\Starter\obj\Debug\net9.0\Starter.AssemblyInfoInputs.cache
+C:\Users\LENOVO M900\Downloads\CsharpEjercicios\GuidedProject\Starter\obj\Debug\net9.0\Starter.AssemblyInfo.cs
+C:\Users\LENOVO M900\Downloads\CsharpEjercicios\GuidedProject\Starter\obj\Debug\net9.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M900\Downloads\CsharpEjercicios\GuidedProject\Starter\obj\Debug\net9.0\Starter.sourcelink.json
