@@ -1,0 +1,15 @@
+/Users/nydia/CsharpEjercicios/EffectiveComments/bin/Debug/net9.0/EffectiveComments
+/Users/nydia/CsharpEjercicios/EffectiveComments/bin/Debug/net9.0/EffectiveComments.deps.json
+/Users/nydia/CsharpEjercicios/EffectiveComments/bin/Debug/net9.0/EffectiveComments.runtimeconfig.json
+/Users/nydia/CsharpEjercicios/EffectiveComments/bin/Debug/net9.0/EffectiveComments.dll
+/Users/nydia/CsharpEjercicios/EffectiveComments/bin/Debug/net9.0/EffectiveComments.pdb
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.AssemblyInfoInputs.cache
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.AssemblyInfo.cs
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.csproj.CoreCompileInputs.cache
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.sourcelink.json
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.dll
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/refint/EffectiveComments.dll
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.pdb
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/EffectiveComments.genruntimeconfig.cache
+/Users/nydia/CsharpEjercicios/EffectiveComments/obj/Debug/net9.0/ref/EffectiveComments.dll
